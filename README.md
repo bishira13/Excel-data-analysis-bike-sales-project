@@ -30,18 +30,6 @@
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244489-e09d45df-61b5-4cef-a3b0-2a59005bb5b7.png">
 
-⁃	creating a pivot table and pivot chart visualisation which represent the customer age bracket who purchased a bike ![image](https://user-images.githubusercontent.com/43182370/182244583-128ca7c5-5654-4182-bd17-b5b0b9dc0585.png)
-
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244597-fd9f4b77-a3de-4b66-95b9-32483feca5dd.png">
-
-⁃	creating a dashboard with all three visualisations
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244789-3480371c-6496-4e78-ae52-c9b56e46fd9b.png">
-
-⁃	inserting slicers to filter out data for example the marital status of average income, average distance and age of male and female (who) purchased a bike
-
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244874-7f19d90d-2391-4f1b-934a-3aeb0b5fd922.png">
-
-
 
 
 
