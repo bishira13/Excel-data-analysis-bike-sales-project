@@ -1,4 +1,4 @@
-# Excel data cleaning & analysis bike sales project
+# Excel data cleaning & analysis of bike sales project
 
 Cleaning and analysying data of bike sales amongst riders of different ages and creating visualisations to represent the insights
 
