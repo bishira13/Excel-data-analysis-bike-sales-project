@@ -20,7 +20,7 @@ Cleaning and analysying data of bike sales amongst riders of different ages and 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244328-5fb86112-37ab-4ac0-883d-271ab575af46.png">
 
-⁃	creating a pivot table to see the average income of male and females who purchased a bike
+⁃	creating a pivot table to isolate the average income of male and females who purchased a bike
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244388-97144f23-7cde-4d68-ba8b-b4e88a647b55.png">
 
