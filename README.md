@@ -2,7 +2,7 @@
 
 Cleaning and analysying data of bike sales amongst riders of different ages and creating visualisations to represent the insights
 
-⁃	removed duplicates
+⁃	removed duplicates and unused data
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182243985-43569bbe-be73-468e-b1fc-e1c41502b9de.png">
 
