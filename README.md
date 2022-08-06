@@ -6,7 +6,7 @@ Cleaning and analysying data of bike sales amongst riders of different ages and 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182243985-43569bbe-be73-468e-b1fc-e1c41502b9de.png">
 
-⁃	find and replace m with married for more readability and easier to spot who was married and not
+⁃	finding and replacing m in the married column for more readability and easier to spot who was married and not
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244055-c55a468a-2d7e-4df4-919d-1e8ebebc51c3.png">
 
