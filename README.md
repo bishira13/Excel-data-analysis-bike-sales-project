@@ -24,11 +24,11 @@ Cleaning and analysying data of bike sales amongst riders of different ages and 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244388-97144f23-7cde-4d68-ba8b-b4e88a647b55.png">
 
-⁃	creating a pivot chart visualisation which represent average income of male and females who purchased a bike and formatting pivot table numbers, also adding a small data table under chart to for quick reference point
+⁃	creating a pivot bar chart visualisation which represents average income of male and females who purchased a bike and formatting pivot table numbers, also adding a small data table under chart to for quick reference point
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244452-8f767875-9c7c-41ac-ad03-6d5fc34d52d5.png">
 
-⁃	creating a pivot table and pivot chart visualisation which represent the count commute distance of miles who purchased a bike
+⁃	creating a pivot table and pivot line chart visualisation which represent the count commute distance of miles who purchased a bike
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/43182370/182244489-e09d45df-61b5-4cef-a3b0-2a59005bb5b7.png">
 
